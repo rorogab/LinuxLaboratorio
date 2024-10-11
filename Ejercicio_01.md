@@ -1,4 +1,4 @@
-### 1. Crea mediante comandos de bash la siguiente jerarquía de ficheros y directorios
+## 1. Crea mediante comandos de bash la siguiente jerarquía de ficheros y directorios
 
 ```bash
 foo/
@@ -46,7 +46,7 @@ vi file1.txt
 cat file1.txt
 ```
 
-# Captura de Pantalla
+### Captura de Pantalla
 
 Aquí está la captura de pantalla que muestra el resultado del comando:
 
