@@ -1,14 +1,14 @@
 # Modulo 0 - Linux Laboratorio - Ejercicios
 
-This repository contains a collection of Linux activities from the class. Each Ejercicio is documented with commands, scripts, and outputs to demonstrate how the challenges were completed.
+Este repositorio contiene una colección de actividades de Linux de la clase. Cada ejercicio está documentado con los comandos, scripts y resultados para demostrar cómo se completaron los desafíos.
 
 ## Tabla de contenidos
 
-1. [Ejercicio 1: File Manipulation](Ejercicio_01.md)
-2. [Ejercicio 2: Permissions and Ownership](Ejercicio_02.md)
-3. [Ejercicio 3: Process Management](Ejercicio_03.md)
-4. [Ejercicio 4: Networking Commands](Ejercicio_04.md)
-5. [Ejercicio 5: Shell Scripting](Ejercicio_05.md)
+1. [Ejercicio 1: Jerarquía de ficheros](Ejercicio_01.md)
+2. [Ejercicio 2: Volcar contenido](Ejercicio_02.md)
+3. [Ejercicio 3: Script de Bash que agrupe los ejericios anteriores](Ejercicio_03.md)
+4. [Ejercicio 4: Script de Bash que descargue el contenido de una web](Ejercicio_04.md)
+5. [Ejercicio 5: OPCIONAL](Ejercicio_05.md)
 
 ## ¿Cómo usar este repositorio?
 
