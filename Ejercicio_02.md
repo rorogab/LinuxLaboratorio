@@ -19,19 +19,15 @@ Me encanta la bash!!
 ## Solución
 
 ```bash
-# Volcar el contenido de "file1.txt" a "file2.txt"
+
 cat file1.txt > file2.txt
 
-# Comprobar que los dos files tienen el texto
 cat file.txt file2.txt
 
-# Volver al directorio "foo"
 cd ..
 
-# Mover el "file2.txt" del subdirectorio "dummy" al subdirectorio "empty"
 mv dummy/file2.txt empty/
 
-# Comprobación
 cat empty/file2.txt dummy/file1.txt
 ```
 
